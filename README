@@ -33,8 +33,9 @@ Now, if you take that "it" prefix, and replace it with "iit", instead of running
 So, if you're anywhere inside a spec:
 
 :AngularRunSpec
-or the "go run spec" mapping:
 
-grs
+or the "run spec" mapping:
 
-will toggle the spec between "it" and "iit." This works especially well if you have a karma watch going. See the screencast at http://notkeepingitreal.com.
+<leader>rs
+
+will toggle the spec between "it" and "iit." This works especially well if you have a karma watch going. See the screencast at http://notkeepingitreal.com (soon come).
